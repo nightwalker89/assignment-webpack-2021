@@ -1,5 +1,5 @@
-# assignment-webpack-2021
-Optimized index-original.html
+# Optimize
+Optimize index-original.html
 
 Using webpack to bundle assets
 
